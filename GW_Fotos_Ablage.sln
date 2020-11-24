@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GW_Fotos_Ablage", "GW_Fotos_Ablage\GW_Fotos_Ablage.csproj", "{0364ED3F-DF24-4B9C-AFCA-23B6DBAAEACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0364ED3F-DF24-4B9C-AFCA-23B6DBAAEACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0364ED3F-DF24-4B9C-AFCA-23B6DBAAEACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0364ED3F-DF24-4B9C-AFCA-23B6DBAAEACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0364ED3F-DF24-4B9C-AFCA-23B6DBAAEACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A27FF56-ED06-4C54-86AA-A41CB439A68E}
+	EndGlobalSection
+EndGlobal
